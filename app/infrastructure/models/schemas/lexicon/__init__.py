@@ -1,0 +1,1 @@
+from .lexiconschema import lexicon
